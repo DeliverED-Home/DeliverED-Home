@@ -1,2 +1,2 @@
 # DeliverED-Home
-Info
+A smart mailbox for all your delivery needs.
