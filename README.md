@@ -9,8 +9,8 @@ DeliverEd Home is a smart mailbox built to make home deliveries as easy as the p
 | Hallelujah Kebede | Software Engineer | [Hallelujah19](https://github.com/Hallelujah19) |
 | Harry Lennox | Hardware Engineer | [Llenn0](https://github.com/Llenn0) |
 | Hrichika Nag | Hardware Engineer, Market Research | [hrichikanag](https://github.com/hrichikanag) |
-| Chris Perceval-Maxwell | UI/UX Design, Edtior, Presentation Manager | [cpuved](https://github.com/cpuved) |
-| Amy Rafferty | UI Design, Software Engineer | [AmyRaff](https://github.com/AmyRaff) |
+| Chris Perceval-Maxwell | UI/UX Design, Co-Product Manager | [cpuved](https://github.com/cpuved) |
+| Amy Rafferty | UI Design, Co-Product Manager | [AmyRaff](https://github.com/AmyRaff) |
 | Huacheng Song | UI Design, Software Engineer | [zico5288](https://github.com/zico5288) |
 | Yizhuo Yang | Software Enigneer | [cxunka](https://github.com/cxunka) |
 | Neo Zhu | Webots Engineer, Market Research | [SpaceHunterInf](https://github.com/SpaceHunterInf) |
