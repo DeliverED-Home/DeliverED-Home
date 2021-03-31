@@ -13,4 +13,4 @@ DeliverEd Home is a smart mailbox built to make home deliveries as easy as the p
 | Amy Rafferty | UI Design, Co-Product Manager | [AmyRaff](https://github.com/AmyRaff) |
 | Huacheng Song | UI Design, Software Engineer | [zico5288](https://github.com/zico5288) |
 | Yizhuo Yang | Software Enigneer | [cxunka](https://github.com/cxunka) |
-| Neo Zhu | Webots Engineer, Market Research | [SpaceHunterInf](https://github.com/SpaceHunterInf) |
+| Neo Zhu | Webots Engineer | [SpaceHunterInf](https://github.com/SpaceHunterInf) |
